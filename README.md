@@ -11,7 +11,7 @@ Includes:
 - Lightning App Page
 
 ## Setup
-1. Deploy to Salesforce DX or VS Code
+1. Deploy to Salesforce Using Lightning Studio
 2. Assign custom objects
 3. Add Lightning App Page to Conference App
 
